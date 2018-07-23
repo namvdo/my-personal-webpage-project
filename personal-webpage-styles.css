@@ -1,0 +1,282 @@
+                    body,
+                    html {
+                        width: 100%;
+                        height: 100%;
+                        margin: 0;
+                        padding: 0;
+                        font-family: 'Lato', sans-serif;
+                        font: 45px;
+                    }
+                    
+                    .container {
+                        overflow: hidden;
+                        margin: auto;
+                        min-height: 70px;
+                    }
+                    
+                    .navbar-default .navbar-nav>li>a:hover,
+                    .navbar-default .navbar-nav>li>a:focus {
+                        color: #42cef4;
+                    }
+                    
+                    .topnav {
+                        font-size: 25px;
+                        background: #000;
+                        margin-top: 10px;
+                    }
+                    
+                    header .container img {
+                        border-radius: 50%;
+                        width: 60px;
+                        height: 60px;
+                        float: left;
+                        display: block;
+                        top: 17%;
+                        border-bottom: 5px;
+                    }
+                    
+                    header nav ul li a {
+                        text-transform: uppercase;
+                        display: block;
+                    }
+                    
+                    header nav .collapse .highlight {
+                        color: white;
+                    }
+                    /* Introduction */
+                    
+                    #welcome-section {
+                        background: url('firstbackground.jpg')no-repeat;
+                        margin-top: -25px;
+                        min-height: 800px;
+                        text-align: center;
+                        font-size: 35px;
+                        padding: 0;
+                        background-size: 2000px;
+                        color: white;
+                        height: auto;
+                        background-size: cover;
+                    }
+                    
+                    .intro-message {
+                        position: relative;
+                        padding-top: 20px;
+                        padding-bottom: 20px;
+                        line-height: 70px;
+                    }
+                    
+                    .intro-message>h1 {
+                        letter-spacing: 10px;
+                        text-transform: uppercase;
+                        padding-top: 20px;
+                        padding-bottom: 20px;
+                        font-size: 50px;
+                    }
+                    /* Make a text responsive */
+                    
+                    @media screen and (min-width: 601px) {
+                        div.intro-message {
+                            font-size: 35px;
+                        }
+                    }
+                    
+                    @media screen and (max-width: 706px) {
+                        div.intro-message {
+                            font-size: 23px;
+                            line-height: 50px;
+                        }
+                        i.fa {
+                            padding: 20px;
+                            font-size: 3.5em;
+                            text-align: center;
+                            text-decoration: none;
+                            margin: 5px 2px;
+                            height: auto;
+                            position: relative;
+                        }
+                    }
+                    
+                    .list-inline .profile-link li {
+                        padding-bottom: 30px;
+                    }
+                    
+                    .fa {
+                        padding: 20px;
+                        font-size: 100px;
+                        text-align: center;
+                        text-decoration: none;
+                        margin: 5px 2px;
+                        height: auto;
+                        position: relative;
+                    }
+                    
+                    .fa:hover {
+                        opacity: 0.8;
+                        transform: scale(1.125);
+                    }
+                    
+                    .fa-facebook-square {
+                        color: #3B5998;
+                    }
+                    
+                    .fa-twitter-square {
+                        color: #55ACEE;
+                    }
+                    
+                    .fa-google-plus-square {
+                        color: #dd4b39;
+                    }
+                    
+                    .fa-github-square {
+                        color: black;
+                    }
+                    /** MY PROJECTS*/
+                    
+                    #projects {
+                        background: url('2ndbackground.jpg') no-repeat;
+                        min-height: 770px;
+                        height: auto;
+                        width: 100%;
+                        background-size: cover;
+                        color: white;
+                        position: relative;
+                    }
+                    
+                    #projects .container {
+                        padding-top: 40px;
+                    }
+                    
+                    #projects .section-heading {
+                        font-size: 50px;
+                    }
+                    
+                    #projects .project-title {
+                        color: white;
+                        padding: 10px;
+                    }
+                    
+                    .image-size {
+                        height: 220px;
+                        width: 100%;
+                    }
+                    /* skills bar */
+                    
+                    #skills-bar {
+                        min-height: 600px;
+                        padding-top: 40px;
+                        margin-top: -20px;
+                        color: #fff;
+                        background: linear-gradient(rgb(106, 130, 168),rgb(94, 110, 135));
+                    }
+                    
+                    #skills-bar .skills {
+                        background-color: rgba(195, 233, 228, 0.986);
+                        padding: 0;
+                        width: 90%;
+                        padding-left: 30px;
+                        text-align: right;
+                        line-height: 70px;
+                        color: #fff;
+                        padding: 0;
+                    }
+                    
+                    .html {
+                        width: 55%;
+                        background-color: #4CAF50;
+                    }
+                    
+                    .css {
+                        width: 40%;
+                        background-color: #2196F3;
+                    }
+                    
+                    .js {
+                        width: 20%;
+                        background-color: #f44336;
+                    }
+                    
+                    .wordpress {
+                        width: 35%;
+                        background-color: #55ACEE;
+                    }
+                    /*Newsletter */
+                    
+                    #newsletter {
+                        text-align: center;
+                        background-color: #95a0b2;
+                        min-height: 300px;
+                        padding: 20px;
+                        font-size: 30px;
+                        letter-spacing: 2px;
+                        font-family: Abril Fatface;
+                        position: relative;
+                        background: cover;
+                        
+                    }
+                    
+                    
+                    #newsletter .mailto {
+                        border-radius: 4px;
+                        background-color: #fff;
+                        border: none;
+                        color: #000;
+                        text-align: center;
+                        padding: 20px;
+                        transition: all 0.5s;
+                        font-size: 25px;
+                        margin: 5px;
+                    }
+                    
+                    #newsletter .button_1 {
+                        border-radius: 4px;
+                        border: none;
+                        color: #fff;
+                        text-align: center;
+                        font-size: 25px;
+                        transition: all 0.5s;
+                        cursor: pointer;
+                        margin: 5px;
+                        width: 150px;
+                        background: #4d81d6;
+                        -webkit-transition: width 2s;
+                        transition: width 2s;
+                        padding: 20px;
+                    }
+                    
+                    #newsletter .button_1:hover {
+                        width: 300px;
+                    }
+
+                      footer{
+                          background: #000;
+                          color: #fff;
+                          padding-top: 25px;
+                          min-height: 70px;
+                          border-top: #4286f4 3px solid;
+                          text-align: center;
+                          font-size: 15px;
+                          padding-bottom: 20px;
+                      }
+
+                      footer i{
+                          border-radius: 4px;
+                          background-color: #f4511e;
+                          border: none;
+                          color: #fff;
+                          text-align: center;
+                          font-size: 35px;
+                          padding: 20px;
+                          transition: all 0.5s;
+                          cursor: pointer;
+                          margin: 5px;
+                          width: 150px;
+                          background: #4d81d6;
+                          -webkit-transition: width 2s;
+                          transition: width 2s;
+                      }
+                      footer i:hover{
+                          color: #000;
+                          width: 200px;
+                      }
+                      
+                      
