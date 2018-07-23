@@ -4,7 +4,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Complete all the requirements of this project.
 * 100% responsive design.
 * Using Bootstrap.
-* Compatible with many browsers.
+* Compatible with many browsers(Chrome, Safari, IE...).
 * Write code neatly.
 * Color combination, font...
 ## MY PREVIEW LAYOUT PROJECT WITH IMAGE
