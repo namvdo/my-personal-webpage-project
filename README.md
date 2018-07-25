@@ -6,7 +6,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Using Bootstrap.
 * Compatible with many browsers(Chrome, Safari, IE...).
 * Write code neatly.
-* Color combination, font...
+* Color, font combination...
 ## MY PREVIEW LAYOUT PROJECT WITH IMAGE
 ![](https://github.com/fantasy2943/my-personal-webpage-project/blob/master/preview.jpg)
 ### YOU CAN:
