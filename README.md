@@ -13,7 +13,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Fork my repository.
 * Clone or download my project.
 * Look at my example code and do your project for yourself.
-### Any recommend for this project can look better, please comment below.
+### Any recommend for this project can look better, please give me an advice.
 
 ### If you would like to contact me, click one of these links below:
 * [Linkedin](https://www.linkedin.com/in/nam-v-do-17b0aa163/)
