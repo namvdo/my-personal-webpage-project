@@ -13,6 +13,8 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Fork my repository.
 * Clone or download my project.
 * Look at my example code and do your project for yourself.
+
+### CodePen: https://codepen.io/fantasy2943/pen/jpavYN
 ### Any recommend for this project can look better, please give me an advice.
 
 ### If you would like to contact me, click one of these links below:
