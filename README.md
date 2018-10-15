@@ -16,7 +16,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 
 ### Any recommend for this project can look better, please give me an advice.
 
-### If you want to help me improve my programming skills, don't hesitate tell it to me by clicking one of these links below:
+### If you want to help me improve my programming skills or want to learn how to become a web(front-end) developer, don't hesitate tell it to me by clicking one of these links below:
 * [Linkedin](https://www.linkedin.com/in/nam-v-do-17b0aa163/)
 * [Facebook](https://facebook.com/fantasy0511/)
 * [Twitter](https://twitter.com/vannam05/)
