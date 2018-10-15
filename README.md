@@ -14,7 +14,6 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Clone or download my project.
 * Look at my example code and do your project for yourself.
 
-### CodePen: https://codepen.io/fantasy2943/pen/jpavYN
 ### Any recommend for this project can look better, please give me an advice.
 
 ### If you want to help me improve my programming skills, don't hesitate tell it to me by clicking one of these links below:
