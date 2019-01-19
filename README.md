@@ -21,3 +21,4 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * [Facebook](https://facebook.com/fantasy0511/)
 * [Twitter](https://twitter.com/vannam05/)
 ### Thank you, happy coding!
+#### P/s: I am just a boy who are trying to do some easy stuff, everything in this res is really simple which is compatible with newbie.
