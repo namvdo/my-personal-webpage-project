@@ -8,7 +8,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * Write code neatly.
 * Color, font combination...
 ## MY PREVIEW LAYOUT PROJECT WITH IMAGE
-![](https://github.com/fantasy2943/my-personal-webpage-project/blob/master/preview.jpg)
+![](https://github.com/namvdo/my-personal-webpage-project/blob/master/images/preview.jpg)
 ### YOU CAN:
 * Fork my repository.
 * Clone or download my project.
