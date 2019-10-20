@@ -5,8 +5,6 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 * 100% responsive design.
 * Using Bootstrap.
 * Compatible with many browsers(Chrome, Safari, IE...).
-* Write code neatly.
-* Color, font combination...
 ## MY PREVIEW LAYOUT PROJECT WITH IMAGE
 ![](https://github.com/namvdo/my-personal-webpage-project/blob/master/images/preview.jpg)
 ### YOU CAN:
@@ -16,7 +14,7 @@ This is a required project implemented by freeCodeCamp - one of the largest comm
 
 ### Any recommend for this project can look better, please give me an advice.
 
-### I'm really delightful to become a friend of programmers, so don't hesitate to become my friend.
+### I'm really delighted to become a friend with programmers, so don't hesitate to become my friend.
 * [Linkedin](https://www.linkedin.com/in/nam-v-do/)
 * [Facebook](https://facebook.com/namvdo11/)
 * [Twitter](https://twitter.com/namvdo/)
